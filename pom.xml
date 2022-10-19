@@ -13,7 +13,7 @@
         <java.version>1.8</java.version>
 
         <!--Jackon Rest Library-->
-        <jackson.version>2.10.1</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
 
         <!-- Logger library -->
         <slf4j.version>1.7.30</slf4j.version>
